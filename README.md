@@ -1,7 +1,7 @@
 # VSCode Cursor Key Bindings
 
 ## Overview
-This repository is intended for sharing the `keybindings.json` file, which is the keybinding settings file for Visual Studio Code (VSCode). By using this configuration file, you can streamline cursor movement and edit your code efficiently without having to move your hands away from the home position.
+This repository is intended for sharing the `keybindings.json` file, which is the keybinding settings file for Visual Studio Code (VSCode). By using this configuration file, **you can streamline cursor movement and edit your code efficiently without having to move your hands away from the home position**.
 
 ## Setup
 Follow these steps to apply the keybinding configuration correctly to your VSCode:
