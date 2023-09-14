@@ -20,7 +20,7 @@ By following these steps, you will correctly configure the cursor keybindings in
 
 ## Usage
 This keybinding configuration provides shortcut keys for cursor movement from the home position (J, K, L, I, H, ;, U, O keys). Below are the main shortcut keys and their descriptions:
-(keybinding_description.jpg)
+<img src="keybinding_description.jpg" title="keybindings">
 
 - `Alt + J`: Move the cursor to the left.
 - `Alt + K`: Move the cursor down.
