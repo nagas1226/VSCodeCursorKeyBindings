@@ -1,0 +1,83 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+        "key": "alt+j",
+        "command": "cursorLeft",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+k",
+        "command": "cursorDown",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+l",
+        "command": "cursorRight",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+i",
+        "command": "cursorUp",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+h",
+        "command": "cursorHome",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+;",
+        "command": "cursorEnd",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+u",
+        "command": "cursorPageUp",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "alt+o",
+        "command": "cursorPageDown",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+j",
+        "command": "cursorLeftSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "cursorDownSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+l",
+        "command": "cursorRightSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+i",
+        "command": "cursorUpSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+h",
+        "command": "cursorHomeSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+;",
+        "command": "cursorEndSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+u",
+        "command": "cursorPageUpSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    },
+    {
+        "key": "shift+alt+o",
+        "command": "cursorPageDownSelect",
+        "when": "suggestWidgetMultipleSuggestions &amp;&amp; !suggestWidgetVisible &amp;&amp; textInputFocus"
+    }
+]
