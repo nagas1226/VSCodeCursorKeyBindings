@@ -44,5 +44,3 @@ You can also select text by holding down the Shift key in conjunction with the a
 - `Shift + Alt + O`: Scroll the page down while selecting.
 
 By using these shortcuts, you can efficiently edit your code without having to move your hands away from the keyboard's home position.
-
-The above explanation covers the keybinding settings and usage for cursor movement in VSCode. Apply the configuration file correctly and enjoy efficient coding.
