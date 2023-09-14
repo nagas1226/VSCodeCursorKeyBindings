@@ -19,8 +19,9 @@ Follow these steps to apply the keybinding configuration correctly to your VSCod
 By following these steps, you will correctly configure the cursor keybindings in VSCode.
 
 ## Usage
-This keybinding configuration provides shortcut keys for cursor movement from the home position (J, K, L, I, H, ;, U, O keys). Below are the main shortcut keys and their descriptions:
-<img src="keybinding_description.jpg" title="keybindings">
+This keybinding configuration provides shortcut keys for cursor movement from the home position (J, K, L, I, H, ;, U, O keys). Below are the main shortcut keys and their descriptions:  
+  
+<img src="keybinding_description.jpg" title="keybindings" width="300">
 
 - `Alt + J`: Move the cursor to the left.
 - `Alt + K`: Move the cursor down.
